@@ -6,6 +6,7 @@
 ## Differences
 1) 2 mm taller
 2) Isn't compatible with 44mm ball, only 45mm
+>Note: ploopy default ball is 45 mm.
 
 ## Demo
 ![1](https://github.com/user-attachments/assets/97e48cd0-2c5a-4081-82a7-5ecc3e960016)
