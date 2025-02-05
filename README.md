@@ -1,5 +1,8 @@
 # Ploopy Adept mod for 8mm ball BTUs 
 
+## Disclaimer
+I highly recommend using STL file and not the STEP one. Slic3r-based slicers don't work perfectly with Onshape STEP's.
+
 ## BTUs needed
 ![image](https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b)
 
