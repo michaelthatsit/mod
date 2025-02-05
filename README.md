@@ -1,8 +1,7 @@
 # Ploopy Adept mod for 8mm ball BTUs 
 
 ## Printing
-I highly recommend using STL file and not the STEP one. Slic3r-based slicers don't work perfectly with Onshape STEP's. \
-Consider layer height of 0.15 mm or 0.2 mm.
+I highly recommend using STL file and not the STEP one. Slic3r-based slicers don't work perfectly with Onshape STEP's. Also, consider layer height of 0.15 mm or 0.2 mm.
 
 ## BTUs needed
 ![image](https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b)
