@@ -18,6 +18,7 @@ Also, consider layer height of 0.15 mm or 0.2 mm for the default ball size, and 
 
 ## 50 mm ball demo
 ![55mm](https://github.com/user-attachments/assets/d82c578e-0e27-449e-b637-91ef44c8319e)
+![20250207_165118](https://github.com/user-attachments/assets/3f2b8ece-8665-43c7-ac2f-f1448303a08e)
 
 ## BTUs needed
 ![image](https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b)
