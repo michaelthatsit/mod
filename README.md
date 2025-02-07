@@ -2,7 +2,8 @@
 
 ## Files
 All the models here are made to be used with BOSCH Rexroth BTUs. \
-`Adept` — for the original ball size
+
+`Adept` — for the original ball size \
 `Adept 50 mm` — for 50 mm ball
 
 ## Printing
