@@ -13,3 +13,5 @@ A: I believe 5 should be enough. You can try as low as 3 tho.
 
 ## `Flat` vs `Magnets`
 Flat version is just like the default one. The one marked as "magnets" includes slots for 4x2 mm magnets to attach raised buttons and wrist rest.
+
+![szxczxcvasf](https://github.com/user-attachments/assets/4a9d00de-f96f-4254-bd50-4d193478e979)
