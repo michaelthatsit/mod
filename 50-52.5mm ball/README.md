@@ -17,3 +17,6 @@ The one marked as "magnets" includes slots for magnets to attach raised buttons 
 Magnets required: 4x2 mm, 16 pcs for the buttons and 3 to 11 pcs for the wrist rest.
 
 ![szxczxcvasf](https://github.com/user-attachments/assets/4a9d00de-f96f-4254-bd50-4d193478e979)
+
+## `Sharp` vs `Smooth`
+![55mm](https://github.com/user-attachments/assets/d82c578e-0e27-449e-b637-91ef44c8319e)
