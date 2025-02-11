@@ -14,8 +14,5 @@ Consider layer height of 0.15 or 0.2 mm for the sharp version and 0.12 mm for th
 
 ![1](https://github.com/user-attachments/assets/97e48cd0-2c5a-4081-82a7-5ecc3e960016)
 
-## `Sharp` vs `Smooth`
-![55mm](https://github.com/user-attachments/assets/d82c578e-0e27-449e-b637-91ef44c8319e)
-
 ## BTUs needed
 ![image](https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b)
