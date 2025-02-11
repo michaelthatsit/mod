@@ -1,9 +1,5 @@
-# Ploopy Adept mod for 8mm ball BTUs 
+# Ploopy Adept mod for 8 mm BTUs 
 All the models here are made to be used with BOSCH Rexroth BTUs.
-
-## Printing
-I highly recommend using STL files, not STEP. Slic3r-based slicers don't work perfectly with OnShape STEPs for some reason. \
-Consider layer height of 0.15 or 0.2 mm for the sharp version and 0.12 mm for the smooth one.  
 
 ## 50/52.4 mm ball
 ![410964378-3f2b8ece-8665-43c7-ac2f-f1448303a08e](https://github.com/user-attachments/assets/4c48117c-0091-4ceb-b4cd-1b48f9380d78)
