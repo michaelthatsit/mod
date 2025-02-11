@@ -1,6 +1,9 @@
 # FAQ
 Q: `rev1` or `rev2`? \
-A: `rev2`
+A: `rev2` 
+
+Q: What does "50-52.5 mm" mean? \
+A: `rev1` is compatible only with 50 mm ball, `rev2` should work with any diameter within the range.
 
 Q: What's with the "bottom" and "sensor-cover"? \
 A: Sensor cover is required to print. `Bottom` is the bottom part but lower, it is optional.
