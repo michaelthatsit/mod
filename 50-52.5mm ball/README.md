@@ -18,7 +18,7 @@ Q: STEP or STL? \
 A: I recommend using STL for slicer and STEP for CAD.
 
 Q: Layer height? \
-A: Top (Sharp) = 0.15 or 0.2 mm; top (Smooth) = 0.12 mm; buttons = 0.12 mm; other = 0.2 mm
+A: Top (Sharp) = 0.1-0.2 mm; top (Smooth) = 0.1-0.12 mm; buttons = 0.1-0.12 mm; other = 0.1-0.2 mm
 
 ## `Flat` vs `Magnets`
 Flat version is just like the default one. \
