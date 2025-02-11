@@ -14,6 +14,9 @@ A: Yeah it actually is very usable even with magnets not inserted.
 Q: Do I need to populate all the 11 magnets for the wrist rest? \
 A: I believe 5 should be enough. You can try as low as 3 tho.
 
+Q: STEP or STL? \
+A: I recommend using STL for slicer and STEP for CAD.
+
 ## `Flat` vs `Magnets`
 Flat version is just like the default one. \
 The one marked as "magnets" includes slots for magnets to attach raised buttons and wrist rest. \
