@@ -17,6 +17,9 @@ A: I believe 5 should be enough. You can try as low as 3 tho.
 Q: STEP or STL? \
 A: I recommend using STL for slicer and STEP for CAD.
 
+Q: Layer height? \
+A: Sharp = 0.15 or 0.2 mm, Smooth = 0.12 mm
+
 ## `Flat` vs `Magnets`
 Flat version is just like the default one. \
 The one marked as "magnets" includes slots for magnets to attach raised buttons and wrist rest. \
