@@ -24,9 +24,10 @@ A: I recommend using STL for slicer and STEP for CAD.
 ## `Flat` vs `Magnets`
 Flat version is just like the default one. \
 The one marked as "magnets" includes slots for magnets to attach raised buttons and wrist rest. \
-Magnets required: 4x2 mm, 12 pcs for the buttons and 3/5/7/11 pcs for the wrist rest.
+Magnets required: 4x2 mm, 12 pcs for the buttons and 3/5/7/11 pcs for the wrist rest. \
+Demo with buttons attached: 
 
-![szxczxcvasf](https://github.com/user-attachments/assets/4a9d00de-f96f-4254-bd50-4d193478e979)
+![photo_2025-02-12_15-15-04](https://github.com/user-attachments/assets/baf4e37a-e5a8-46d3-9f48-b12d4a77d95e)
 
 ## `Sharp` vs `Smooth`
 ![55mm](https://github.com/user-attachments/assets/d82c578e-0e27-449e-b637-91ef44c8319e)
