@@ -8,9 +8,8 @@ All the models here are made to be used with BOSCH Rexroth BTUs.
 
 ## 45 mm ball
 
-This mod fits the original 45mm ball
-
-If you have a Bambu Labs printer, you can find the M3F files [here](https://makerworld.com/en/models/1087275#profileId-1080219)
+This mod by [@fabriciobastian](https://github.com/fabriciobastian) fits the original 45mm ball. \
+You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld.com/en/models/1087275#profileId-1080219).
 
 <p>
   <img src='./45-mm ball/images/45mm-top.png' height="300px" align="left"/>
