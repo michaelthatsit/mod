@@ -13,8 +13,8 @@ This mod fits the original 45mm ball
 If you have a Bambu Labs printer, you can find the M3F files [here](https://makerworld.com/en/models/1087275#profileId-1080219)
 
 <p>
-  <img src='https://makerworld.bblmw.com/makerworld/model/USf6630a0ac6ab92/design/2025-02-08_4ac671399862c.jpg' height="300px" align="left"/>
-  <img src='https://makerworld.bblmw.com/makerworld/model/USf6630a0ac6ab92/design/2025-02-08_fe6a3c56b97f3.jpg' height="300px" />
+  <img src='./45-mm ball/images/45mm-top.png' height="300px" align="left"/>
+  <img src='./45-mm ball/images/45mm-top-no-ball.png' height="300px" />
 </p>
 
 ![1](https://github.com/user-attachments/assets/97e48cd0-2c5a-4081-82a7-5ecc3e960016)
