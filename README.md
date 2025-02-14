@@ -18,7 +18,7 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 
 ![1](https://github.com/user-attachments/assets/97e48cd0-2c5a-4081-82a7-5ecc3e960016)
 
-> Note: this mode is compatible with either default Ploopy 45mm ball or the 44mm ball (for example, from ProtoArc mouse).
+> This mod is compatible with either default Ploopy 45mm ball or the 44mm ball (for example, from ProtoArc mouse).
 
 ## BTUs needed
 
