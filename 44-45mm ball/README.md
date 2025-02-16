@@ -5,7 +5,7 @@
 Q: Layer height? \
 A: 0.2 mm
 
-Q: What the standard mod? \
+Q: What is the standard mod? \
 A: It is the original case modified top fit the BTUs. All you need is to reprint the top part.
 
 Q: What is the short mode? \
