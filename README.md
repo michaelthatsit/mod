@@ -6,7 +6,7 @@ All the models here are made to be used with BOSCH Rexroth BTUs.
 
 | Ball |  |  |
 |-----------|----------|--|
-| 34 mm, 38.1 mm | 🌐 | [another mod*](https://github.com/fabriciobastian/ploopy-adept-small-btu) from [@fabriciobastian](https://github.com/fabriciobastian)
+| 34 mm, 38.1 mm | 🌐 | [another mod*](https://github.com/fabriciobastian/ploopy-adept-small-btu) by [@fabriciobastian](https://github.com/fabriciobastian)
 | 44 mm     | ✔️       | e.g. from ProtoArc, JOMAA |
 | 45 mm     | ✔️       | default Adept ball |
 | 50 mm     | ✔️       | e.g. from Adesso T50 |
