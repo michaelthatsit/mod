@@ -1,4 +1,8 @@
-# FAQ
+## Adept + 50-52.5 mm ball
+
+> ❗️ not [ISO-2025EFOG](https://github.com/efogdev/ISO-2025EFOG) compliant
+
+## FAQ
 Q: `rev1` or `rev2`? \
 A: `rev2` 
 
