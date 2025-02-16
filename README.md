@@ -1,6 +1,6 @@
-# Ploopy Adept mod for 8 mm BTUs
+# Adept Anyball
 
-All the models here are made to be used with BOSCH Rexroth BTUs.
+Ploopy Adept mod for 8 mm BOSCH Rexroth BTUs.
 
 ## Compatibility
 
