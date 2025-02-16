@@ -15,7 +15,7 @@ All the models here are made to be used with BOSCH Rexroth BTUs.
 | 60 mm     | ⏳️       | pool ball |
 | 68 mm     | ⏳️       | russian pyramid ball |
 
->*linked here just for your convenience. 
+<sub>*linked here just for your convenience, not part of the Anyball project.</sub>
 
 ## BTUs needed
 
