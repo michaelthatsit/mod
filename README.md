@@ -13,7 +13,7 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a>.
 | 52.4 mm   | ✔️       | snooker ball  |
 | 57 mm     | ⏳️       | pool ball |
 | 60 mm     | ⏳️       | pool ball |
-| 68 mm     | ⏳️       | russian pyramid ball |
+| 68 mm <sub>?!</sub>     | ⏳️       | russian pyramid ball |
 
 <sub>*linked here just for your convenience, not part of the Anyball project.</sub>
 
