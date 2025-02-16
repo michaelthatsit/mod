@@ -1,6 +1,6 @@
 # Adept Anyball
 
-Ploopy Adept mod for 8 mm BOSCH Rexroth BTUs.
+Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a>.
 
 ## Compatibility
 
@@ -16,12 +16,6 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth BTUs.
 | 68 mm     | ⏳️       | russian pyramid ball |
 
 <sub>*linked here just for your convenience, not part of the Anyball project.</sub>
-
-## BTUs needed
-
-<p>
-  <img alt='BTU specsheet' src='https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b' height="250px" />
-</p>
 
 ## 57-68 mm ball
 
@@ -45,3 +39,11 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 </p>
 
 ![45mm ball](https://github.com/user-attachments/assets/97e48cd0-2c5a-4081-82a7-5ecc3e960016)
+
+## BTUs needed
+
+<p>
+  <img alt='BTU specsheet' src='https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b' height="250px" />
+</p>
+
+[This BTUs](https://vi.aliexpress.com/item/1005007460320866.html) from Aliexpress should be compatible (SP-8).
