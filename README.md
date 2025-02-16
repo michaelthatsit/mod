@@ -29,7 +29,10 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth BTUs.
 
 ## 50-52.4 mm ball
 
-![50mm Adesso ball](https://github.com/user-attachments/assets/4c48117c-0091-4ceb-b4cd-1b48f9380d78)
+<p>
+  <img src='https://github.com/user-attachments/assets/4c48117c-0091-4ceb-b4cd-1b48f9380d78' width='400' float='left' />
+  <img src='https://github.com/user-attachments/assets/baf4e37a-e5a8-46d3-9f48-b12d4a77d95e' width='480' float='right' />
+</p>
 
 ## 44-45 mm ball
 
