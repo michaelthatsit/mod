@@ -15,7 +15,7 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a>.
 | 60 mm     | ⏳️       | pool ball |
 | 68 mm <sub>?!</sub>     | ⏳️       | russian pyramid ball |
 
-<sup>\*chances are your ball is compatible if it's within the \[min, max\] range.</sup> \
+<sup>\*chances are your ball is compatible if it's within the \[min, max\] range, and it probably is.</sup> \
 <sup>\*\*linked here just for your convenience, not part of the Anyball project.</sup>
 
 ## 57-68 mm ball
