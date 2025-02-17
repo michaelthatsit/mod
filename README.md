@@ -11,16 +11,18 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a>.
 | 45 mm               | ✔️  | default Adept ball                                                                                                                                |
 | 50 mm               | ✔️  | e.g. from Adesso T50                                                                                                                              |
 | 52.4 mm             | ✔️  | snooker ball                                                                                                                                      |
-| 57 mm               | ⏳️ | pool ball                                                                                                                                         |
-| 60 mm               | ⏳️ | pool ball                                                                                                                                         |
-| 68 mm <sub>?!</sub> | ⏳️ | russian pyramid ball                                                                                                                              |
+| 57 mm               | ✔️ | pool ball                                                                                                                                         |
+| 60 mm               | ✔️ | pool ball                                                                                                                                         |
+| 68 mm <sub>?!</sub> | ✔️ | russian pyramid ball                                                                                                                              |
 
 <sup>\*chances are your ball is compatible if it's within the \[min, max\] range, and it probably is.</sup> \
 <sup>\*\*linked here just for your convenience, not part of the Anyball project.</sup>
 
 ## 57-68 mm ball
 
-> Coming soon!
+<p>
+  <img src='https://github.com/user-attachments/assets/b444aa28-2a66-43e9-b1cf-f955b70abfa2' width='420' float='left' />
+</p>
 
 ## 50-52.4 mm ball
 
