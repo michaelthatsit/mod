@@ -1,4 +1,4 @@
-# Adept Anyball
+# <img src='https://github.com/user-attachments/assets/3701cadf-f646-45d5-99ed-bb742a3afe20' width='24' /> Adept Anyball
 
 Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a>.
 
