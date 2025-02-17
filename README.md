@@ -4,13 +4,14 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a>.
 
 ## Compatibility<sup>\*</sup>
 
-| Ball                |     |                                                                                                                                                   |
-| ------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 34 mm, 38.1 mm      | 🌐  | [another mod<sup>\*\*</sup>](https://github.com/fabriciobastian/ploopy-adept-small-btu) by [@fabriciobastian](https://github.com/fabriciobastian) |
-| 44 mm               | ✔️  | e.g. from ProtoArc, JOMAA                                                                                                                         |
-| 45 mm               | ✔️  | default Adept ball                                                                                                                                |
-| 50 mm               | ✔️  | e.g. from Adesso T50                                                                                                                              |
-| 52.4 mm             | ✔️  | snooker ball                                                                                                                                      |
+| Ball                |    |                                                                                                                                                   |
+| ------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 34 mm, 38.1 mm      | 🌐 | [another mod<sup>\*\*</sup>](https://github.com/fabriciobastian/ploopy-adept-small-btu) by [@fabriciobastian](https://github.com/fabriciobastian) |
+| 44 mm               | ✔️ | e.g. from ProtoArc, JOMAA                                                                                                                         |
+| 45 mm               | ✔️ | default Adept ball                                                                                                                                |
+| 50 mm               | ✔️ | e.g. from Adesso T50                                                                                                                              |
+| 52.4 mm             | ✔️ | snooker ball                                                                                                                                      |
+| 55 mm               | ❔ | e.g. from Kengsington Expect, Slimblade etc. To be tested yet.                                                                                    |
 | 57 mm               | ✔️ | pool ball                                                                                                                                         |
 | 60 mm               | ✔️ | pool ball                                                                                                                                         |
 | 68 mm <sub>?!</sub> | ✔️ | russian pyramid ball                                                                                                                              |
