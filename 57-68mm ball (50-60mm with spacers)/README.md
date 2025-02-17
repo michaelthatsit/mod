@@ -2,6 +2,10 @@
 
 > ❗️ not [ISO-2025EFOG](https://github.com/efogdev/ISO-2025EFOG) compliant
 
+## Spacers
+
+You need spacers for 50-57mm balls, see the README in the directory.
+
 ## FAQ
 
 Please refer to [the README](https://github.com/adept-anyball/mod/blob/master/50-52.5mm%20ball/README.md) for 50-52.5 mm ball. \
