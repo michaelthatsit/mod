@@ -47,8 +47,6 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
   <img alt='45mm top without ball'  src='./44-45mm ball/standard/images/45mm-top-no-ball.png' height="300px" />
 </p>
 
-![45mm ball](https://github.com/user-attachments/assets/97e48cd0-2c5a-4081-82a7-5ecc3e960016)
-
 ## BTUs needed
 
 [This is the link](https://store.boschrexroth.com/BALL-TRANSFER-UNIT_R053010810) to genuine BOSCH Rexroth BTUs.
