@@ -61,3 +61,8 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 You can also search Aliexpress for `CY 8H ball transfer unit`. \
 It is currently unknown if those are compatible but they probably are (or the adapter is possible).
 
+## Quality Assurance
+
+We have the best of the best.
+
+![20250218_104146](https://github.com/user-attachments/assets/fa81e27c-0c66-4a6d-b77f-7f7ac985f64e)
