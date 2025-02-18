@@ -21,7 +21,7 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
 
 <sup>\*chances are your ball is compatible if it's within the \[min, max\] range, and it probably is.</sup> \
 <sup>\*\*linked here just for your convenience, not part of the Anyball project.</sup> \
-<sup>\*\*\*kindly consider [supporting Ukraine](https://u24.gov.ua) to fight Russia at the ongoing invasion and occupation. 
+<sup>\*\*\*kindly consider [supporting Ukraine](https://u24.gov.ua) to fight Russia in the ongoing invasion and occupation. 
 
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
