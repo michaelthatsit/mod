@@ -55,7 +55,7 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 [This is the link](https://store.boschrexroth.com/BALL-TRANSFER-UNIT_R053010810) to genuine BOSCH Rexroth BTUs.
 
 <p>
-  <img alt='BTU specsheet' src='https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b' height="250px" />
+  <img alt='BTU specsheet' src='https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b' height='250' width='auto' />
 </p>
 
 [This BTUs](https://vi.aliexpress.com/item/1005007460320866.html) from Aliexpress should be compatible (SP-8). \
