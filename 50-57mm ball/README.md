@@ -16,3 +16,7 @@ A: The bottom part and buttons are optional.
 
 Q: Where are other buttons? \
 A: The buttons here are the same as in the [57-68mm version](https://github.com/adept-anyball/mod/tree/master/57-68mm%20ball%20(50-60mm%20with%20spacers)/raised-buttons).
+
+## Demo
+
+<img src='https://github.com/user-attachments/assets/3b44268c-4568-47c1-be67-3cd20859c9b3' width='500' />
