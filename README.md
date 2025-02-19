@@ -54,11 +54,8 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
   <img alt='BTU specsheet' src='https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b' height='250' width='auto' />
 </p>
 
-[This BTUs](https://vi.aliexpress.com/item/1005007460320866.html) from Aliexpress should be compatible (SP-8). \
-<b>It is compatible ONLY ON PAPER YET and is NOT TESTED.</b>
-
-You can also search Aliexpress for `CY 8H ball transfer unit`. \
-It is currently unknown if those are compatible but they probably are (or the adapter is possible).
+CY-8H BTUs from AliExpress [are compatible](https://github.com/adept-anyball/mod/issues/6). \
+[This ones](https://vi.aliexpress.com/item/1005007460320866.html) may be compatible too (SP-8).
 
 ## Quality Assurance
 
