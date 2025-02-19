@@ -32,7 +32,7 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
 ## 50-52.4 mm ball
 
 <p>
-  <img src='https://github.com/user-attachments/assets/4c48117c-0091-4ceb-b4cd-1b48f9380d78' width='320' float='left' />
+  <img src='https://github.com/user-attachments/assets/4e7f10c9-461d-4c7d-8010-c251f283946a' width='320' float='left' />
   <img src='https://github.com/user-attachments/assets/baf4e37a-e5a8-46d3-9f48-b12d4a77d95e' width='420' float='right' />
 </p>
 
@@ -65,3 +65,8 @@ It is currently unknown if those are compatible but they probably are (or the ad
 We have the best of the best.
 
 ![20250218_104146](https://github.com/user-attachments/assets/fa81e27c-0c66-4a6d-b77f-7f7ac985f64e)
+
+## Even more photos
+
+<img src='https://github.com/user-attachments/assets/4c48117c-0091-4ceb-b4cd-1b48f9380d78' width='320' />
+
