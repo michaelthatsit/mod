@@ -73,5 +73,5 @@ We have the best of the best.
 
 ## Even more photos
 
-<img src='https://github.com/user-attachments/assets/4c48117c-0091-4ceb-b4cd-1b48f9380d78' width='320' />
+See [gallery](https://github.com/adept-anyball/mod/issues/7).
 
