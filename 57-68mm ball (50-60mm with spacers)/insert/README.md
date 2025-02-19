@@ -1,5 +1,7 @@
 # Insert
 
+> The [50-57mm version](https://github.com/adept-anyball/mod/tree/master/50-57mm%20ball%20(in%20progress)) has this baked into the model itself, as well as spacers. Consider printing it instead.
+
 A little part just for aesthetics, if you aren't planning to use ≥57mm balls. \
 Supposed to be carefully glued in like this:
 
