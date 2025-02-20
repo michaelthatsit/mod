@@ -37,7 +37,7 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
 
 ## 50-52.4 mm ball
 
-> The difference from the previous one is that the buttons are larger here.
+> The difference from the previous one is that the buttons are larger here. See [the gallery](https://github.com/adept-anyball/mod/issues/7#issuecomment-2670550200).
 
 <p>
   <img src='https://github.com/user-attachments/assets/e669314c-c8d0-4c04-aaf5-805082c13203' width='300' float='left' />
