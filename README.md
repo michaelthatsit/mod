@@ -4,23 +4,22 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
 
 <img src='https://github.com/user-attachments/assets/2b93e8b8-df7b-4a21-967f-d1aeba64710c' width='640' />
 
-
 ## Compatibility<sup>\*</sup>
 
-| Ball                |    |                                                                                                                                                   |
-| ------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 34 mm, 38.1 mm      | ✔️ | e.g. Perixx and original Ploopy Nano snooker ball, see [this repo](https://github.com/adept-anyball/ploopy-adept-small-btu)                       |
-| 44 mm               | ✔️ | e.g. from ProtoArc, JOMAA                                                                                                                         |
-| 45 mm               | ✔️ | default Adept ball                                                                                                                                |
-| 50 mm               | ✔️ | e.g. from Adesso T50                                                                                                                              |
-| 52.4 mm             | ✔️ | snooker ball                                                                                                                                      |
-| 55 mm               | ✔️ | e.g. from Kensington Expert, Perixx                                                                                                               |
-| 57 mm               | ✔️ | pool ball                                                                                                                                         |
-| 60 mm               | ✔️ | pool ball                                                                                                                                         |
-| 68 mm <sub>?!</sub> | ✔️ | russian<sup>\*\*</sup> pyramid ball                                                                                                               |
+| Ball                |     |                                                                                                                             |
+| ------------------- | --- | --------------------------------------------------------------------------------------------------------------------------- |
+| 34 mm, 38.1 mm      | ✔️  | e.g. Perixx and original Ploopy Nano snooker ball, see [this repo](https://github.com/adept-anyball/ploopy-adept-small-btu) |
+| 44 mm               | ✔️  | e.g. from ProtoArc, JOMAA                                                                                                   |
+| 45 mm               | ✔️  | default Adept ball                                                                                                          |
+| 50 mm               | ✔️  | e.g. from Adesso T50                                                                                                        |
+| 52.4 mm             | ✔️  | snooker ball                                                                                                                |
+| 55 mm               | ✔️  | e.g. from Kensington Expert, Perixx                                                                                         |
+| 57 mm               | ✔️  | pool ball                                                                                                                   |
+| 60 mm               | ✔️  | pool ball                                                                                                                   |
+| 68 mm <sub>?!</sub> | ✔️  | russian<sup>\*\*</sup> pyramid ball                                                                                         |
 
 <sup>\*chances are your ball is compatible if it's within the \[min, max\] range, and it probably is.</sup> \
-<sup>\*\*kindly consider [supporting Ukraine](https://u24.gov.ua) to fight Russia in the ongoing invasion and occupation. 
+<sup>\*\*kindly consider [supporting Ukraine](https://u24.gov.ua) to fight Russia in the ongoing invasion and occupation.
 
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
@@ -45,9 +44,19 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
   <img src='https://github.com/user-attachments/assets/baf4e37a-e5a8-46d3-9f48-b12d4a77d95e' width='420' float='right' />
 </p>
 
+## 55 mm ball
+
+Fits a 55 mm ball. It might fit other sizes, but this has not been tested yet. In this mod, the bottom and top parts of the original Adept case have been modified.
+
+<p>
+  <img alt='55mm short top' src='./55mm ball/images/55mm-short-top.jpg' height="300px" float="left"/>
+  <img alt='55mm short side' src='./55mm ball/images/55mm-short-side.jpg' height="300px" float="left"/>
+  <img alt='55mm short front' src='./55mm ball/images/55mm-short-front.jpg' height="300px" float="right"/>
+</p>
+
 ## 44-45 mm ball
 
-This mod by [@fabriciobastian](https://github.com/fabriciobastian) fits the original 45mm ball. \
+This mod fits the original 45mm ball. \
 You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld.com/en/models/1087275#profileId-1080219).
 
 <p>
@@ -75,4 +84,3 @@ We have the best of the best.
 ## Even more photos
 
 See [gallery](https://github.com/adept-anyball/mod/issues/7).
-
