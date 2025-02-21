@@ -64,7 +64,7 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 </p>
 
 CY-8H BTUs from AliExpress [are compatible](https://github.com/adept-anyball/mod/issues/6). \
-[This ones](https://vi.aliexpress.com/item/1005007460320866.html) may be compatible too (SP-8).
+[This ones](https://vi.aliexpress.com/item/1005007460320866.html) may be compatible too (SP-8). [Github issue](https://github.com/adept-anyball/mod/issues/5).
 
 ## Quality Assurance
 
