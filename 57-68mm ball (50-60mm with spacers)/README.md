@@ -4,7 +4,7 @@
 
 ## Spacers
 
-You need spacers for 50-57mm balls, see the README in the directory.
+You need spacers for 50-56.5mm balls, see the README in the directory.
 
 ## FAQ
 
