@@ -4,9 +4,15 @@ The buttons in this folder are [ISO-2025EFOG](https://github.com/efogdev/ISO-202
 
 ## Spherical 5mm
 
-5 mm tall with a 2 mm deep spherical cut: 
+5 mm tall with a 2 mm deep spherical cut:
 
-<img alt='45mm top' src='./spherical-5mm/images/spherical-5mm-buttons-render.png' height="300px"/>
+<img alt='spherical-5mm' src='./spherical-5mm/images/spherical-buttons-5mm-render.png' height="300px"/>
+
+## Flat 5mm
+
+5 mm tall flat buttons
+
+<img alt='flat-5mm' src='./flat-5mm/images/flat-buttons-5mm-render.png' height="300px"/>
 
 ## Default
 
