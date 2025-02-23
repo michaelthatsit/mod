@@ -1,4 +1,4 @@
-# Adept 55mm ball
+# Adept 50-55mm ball (short version)
 
 <p>
   <img alt='55mm short top' src='./images/55mm-short-top.jpg' height="300px" float="left"/>
@@ -9,7 +9,7 @@
 > ✅ [ISO-2025EFOG](https://github.com/efogdev/ISO-2025EFOG) compliant
 
 This mod is an adaptation of the original case where the top and bottom of the original adept are changed. The optics cover (bottom of the top case) is the same as the original.
-The mod is designed for a 55mm ball, but might support other balls too (not tested!).
+The mod is designed for a 55mm ball, but works with 50-55mm balls.
 
 The following files are available in both STEP and STL:
 
