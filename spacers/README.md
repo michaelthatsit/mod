@@ -1,5 +1,7 @@
 ## BTU Spacers
 
+> Works best with TPU. PLA/PETG is fine too.
+
 There are two reasons to print a spacer or several:
 1) Your ball touches the shell while rolling.
 2) You want to use a smaller ball than the shell allows.
