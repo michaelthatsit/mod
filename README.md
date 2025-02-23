@@ -8,7 +8,7 @@
 
 | Ball                |     |                                                                                                                             |
 | ------------------- | --- | --------------------------------------------------------------------------------------------------------------------------- |
-| 34 mm, 38.1 mm      | ✔️  | e.g. Perixx and original Ploopy Nano snooker ball, see [this repo](https://github.com/adept-anyball/ploopy-adept-small-btu) |
+| 34 mm, 38.1 mm      | ✔️  | e.g. Perixx, original Ploopy Nano ball, see [this repo](https://github.com/adept-anyball/ploopy-adept-small-btu) |
 | 44 mm               | ✔️  | e.g. from ProtoArc, JOMAA                                                                                                   |
 | 45 mm               | ✔️  | default Adept ball                                                                                                          |
 | 50 mm               | ✔️  | e.g. from Adesso T50                                                                                                        |
