@@ -28,20 +28,10 @@
   <img src='https://github.com/user-attachments/assets/b444aa28-2a66-43e9-b1cf-f955b70abfa2' width='420' float='right' />
 </p>
 
-## 50-57 mm ball
+## 50-55 mm ball
 
 <p>
-  <img src='https://github.com/user-attachments/assets/3b44268c-4568-47c1-be67-3cd20859c9b3' width='360' />
-  <img src='https://github.com/user-attachments/assets/1a6b9d03-21f0-491b-a56a-cdc88de73d5a' width='360' />
-</p>
-
-## 50-52.4 mm ball
-
-> The difference from the previous one is that the buttons are larger here. See [the gallery](https://github.com/adept-anyball/mod/issues/7#issuecomment-2670550200).
-
-<p>
-  <img src='https://github.com/user-attachments/assets/e669314c-c8d0-4c04-aaf5-805082c13203' width='300' float='left' />
-  <img src='https://github.com/user-attachments/assets/baf4e37a-e5a8-46d3-9f48-b12d4a77d95e' width='420' float='right' />
+  <img alt='55mm ball' src='https://github.com/user-attachments/assets/d80c5e04-c924-448d-8d6a-b7765a459fc6' width='450'/>
 </p>
 
 ## 55 mm ball
@@ -61,6 +51,15 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 <p>
   <img alt='45mm top' src='./44-45mm ball (+ short version)/standard/images/45mm-top.png' height="300px" float="left"/>
   <img alt='45mm top without ball'  src='./44-45mm ball (+ short version)/standard/images/45mm-top-no-ball.png' height="300px" />
+</p>
+
+## 50-52.4 mm ball _DEPRECATED_
+
+> The shell is deprecated, see 50-55mm one. It has standard size buttons and better BTUs placement.
+
+<p>
+  <img src='https://github.com/user-attachments/assets/e669314c-c8d0-4c04-aaf5-805082c13203' width='300' float='left' />
+  <img src='https://github.com/user-attachments/assets/baf4e37a-e5a8-46d3-9f48-b12d4a77d95e' width='420' float='right' />
 </p>
 
 ## BTUs needed
