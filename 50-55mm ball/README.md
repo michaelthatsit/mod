@@ -19,8 +19,11 @@ A: [Here](https://github.com/adept-anyball/mod/tree/master/buttons).
 Q: I don't have magnets, is it usable? \
 A: Yes, it is very usable even with magnets not inserted. 
 
-Q: 57mm ball pretty please???
+Q: 57mm ball pretty please??? \
 A: Might work with 0.4mm spacers. I haven't tried that. 
+
+Q: Why is the bottom part even here? \
+A: It is 1.2mm lower but has the sensor chip exposed. It is recommended to cover the hole with any tape. 
 
 ## Demo
 
