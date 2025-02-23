@@ -21,6 +21,14 @@
 <sup>\*chances are your ball is compatible if it's within the \[min, max\] range, and it probably is.</sup> \
 <sup>\*\*kindly consider [supporting Ukraine](https://u24.gov.ua) to fight Russia in the ongoing invasion and occupation.
 
+## General tips
+
+> Insert magnets on a flat hard surface while the device is not assembled.
+
+> Cyanoacrylate (superglue) works nice for magnets.
+
+> If you experience bad tracking, you can always try to print some spacers to fix it for your particular ball.
+
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
 <p>
