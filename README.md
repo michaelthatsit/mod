@@ -39,7 +39,8 @@
 ## 50-55 mm ball
 
 > If you use CY-8H Aliexpress BTUs, it is recommended to go with the 50-52.4mm version instead. \
-> You can ignore the fact that it is deprecated in such a case.
+> You can ignore the fact that it is deprecated in such a case. \
+> That version (in combination with this BTUs) should work with a 55 mm ball too.
 
 <p>
   <img alt='55mm ball' src='https://github.com/user-attachments/assets/d80c5e04-c924-448d-8d6a-b7765a459fc6' width='450'/>
