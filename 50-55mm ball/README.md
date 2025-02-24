@@ -4,6 +4,8 @@
 
 > ❗️ Warning: it has been reported that CY-8H BTUs don't work with this version well. 
 
+> ❕ It is recommended to slice with Arachne wall generator. 
+
 ## Everything?
 
 Everything. Even the sensor cover, the bottom part, the "default" buttons. \
