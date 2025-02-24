@@ -2,7 +2,7 @@
 
 > ✅ [ISO-2025EFOG](https://github.com/efogdev/ISO-2025EFOG) compliant
 
-> ❗️ Warning: it has been reported that CY-8H BTUs don't work with this version well. 
+> ❗️ It has been reported that CY-8H BTUs don't work with this version well. 
 
 ## Everything?
 
