@@ -12,6 +12,7 @@
 | 44 mm               | ✔️  | e.g. from ProtoArc, JOMAA                                                                                                   |
 | 45 mm               | ✔️  | default Adept ball                                                                                                          |
 | 50 mm               | ✔️  | e.g. from Adesso T50                                                                                                        |
+| 50.8 mm             | ✔️  | english pool ball                                                                                                           |
 | 52.4 mm             | ✔️  | snooker ball                                                                                                                |
 | 55 mm               | ✔️  | e.g. from Kensington Expert, Perixx                                                                                         |
 | 57 mm               | ✔️  | pool ball                                                                                                                   |
