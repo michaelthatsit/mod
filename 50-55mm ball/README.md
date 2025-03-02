@@ -10,6 +10,9 @@ Everything. Even the sensor cover, the bottom part, the "default" buttons. \
 **You need to split those in your slicer before printing.** \
 The bottom part is optional and is 100% compatible with the default Ploopy bottom.
 
+A [public third-party Onshape document](https://cad.onshape.com/documents/8ccfa9641ddd3f6929d9303b/w/a0d313c8d0288c4ecea783e6/e/e5fdbae89a3f2a2f05d6562c
+).
+
 ## FAQ
 
 Q: Layer height? \
