@@ -1,6 +1,6 @@
 # <img src='https://github.com/user-attachments/assets/3701cadf-f646-45d5-99ed-bb742a3afe20' width='24' /> Adept Anyball
 
-[Ploopy Adept](https://ploopy.co/adept-trackball) mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with optional magnetically attachable buttons.
+[Ploopy Adept](https://ploopy.co/adept-trackball) mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with optional <a href='#magnets'>magnetically</a> attachable buttons.
 
 <img src='https://github.com/user-attachments/assets/2b93e8b8-df7b-4a21-967f-d1aeba64710c' width='640' />
 
@@ -85,6 +85,11 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 
 CY-8H BTUs from AliExpress [are compatible](https://github.com/adept-anyball/mod/issues/6). \
 [SP-8 ones](https://vi.aliexpress.com/item/1005007460320866.html) are not directly compatible, but there are model(s) available. [Github issue](https://github.com/adept-anyball/mod/issues/5).
+
+## Magnets
+
+You will need 4x2 mm circular neodymium magnets, full set (device + buttons) is 24pcs. \
+They MUST be glued, ideally with a cyanocrylate based glue. 
 
 ## Quality Assurance
 
