@@ -24,11 +24,19 @@
 
 ## General tips
 
-> Insert magnets on a flat hard surface while the device is not assembled.
+### Printing
 
-> Cyanoacrylate (superglue) works nice for magnets.
+>❔ No supports needed whatsoever.
 
-> If you experience bad tracking, you can always try to print some spacers to fix it for your particular ball.
+>❔ PLA, PETG, ABS — any of those are fine. 
+
+>❔ If you experience bad tracking, you may want to print and install spacers.
+
+### Other
+
+>❔ Insert magnets on a flat hard surface while the device is not assembled.
+
+>❔ Cyanoacrylate (superglue) works nice for magnets.
 
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
