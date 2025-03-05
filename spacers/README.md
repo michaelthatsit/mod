@@ -5,6 +5,7 @@
 There are two reasons to print a spacer or several:
 1) Your ball touches the shell while rolling.
 2) You want to use a smaller ball than the shell allows.
+3) Your particular ball doesn't work well even though the shell supports it's size.
 
 In either case, spacers may help. Or may not. Example usage:
 
