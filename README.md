@@ -26,7 +26,7 @@
 
 ### Printing
 
->❔ No supports needed whatsoever.
+>❔ No supports needed whatsoever. Not only that, but there MUST be no supports, unless you really know what you are doing.
 
 >❔ PLA, PETG, ABS — any of those are fine. 
 
