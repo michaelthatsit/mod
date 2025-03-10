@@ -26,17 +26,17 @@
 
 ### Printing
 
->❔ No supports needed whatsoever. Not only that, but there MUST be no supports, unless you really know what you are doing.
+1. There MUST be no supports, unless you really know what you are doing.
 
->❔ PLA, PETG, ABS — any of those are fine. 
+2. PLA, PETG, ABS — any of those are fine. 
 
->❔ If you experience bad tracking, you may want to print and install spacers.
+3. If you experience bad tracking, you may want to print and install spacers.
 
 ### Other
 
->❔ Insert magnets on a flat hard surface while the device is not assembled.
+1. Insert magnets on a flat hard surface while the device is not assembled.
 
->❔ Cyanoacrylate (superglue) works nice for magnets.
+2. Cyanoacrylate (superglue) works nice for magnets.
 
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
