@@ -47,6 +47,9 @@
 
 ## 50-55 mm ball
 
+Also available for non-standard BTUs: 
+[SP-8](https://github.com/adept-anyball/mod/issues/5), [Veichu-15](https://github.com/adept-anyball/mod/issues/11).
+
 > If you use CY-8H Aliexpress BTUs, it is recommended to go with the 50-52.4mm version instead. \
 > You can ignore the fact that it is deprecated in such a case. \
 > That version (in combination with this BTUs) should work with a 55 mm ball too.
@@ -91,8 +94,8 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
   <img alt='BTU specsheet' src='https://github.com/user-attachments/assets/a1a8a0e0-8605-44d5-94d4-03515e37f13b' height='250' width='auto' />
 </p>
 
-CY-8H BTUs from AliExpress [are compatible](https://github.com/adept-anyball/mod/issues/6). \
-[SP-8 ones](https://vi.aliexpress.com/item/1005007460320866.html) are not directly compatible, but there are model(s) available. [Github issue](https://github.com/adept-anyball/mod/issues/5).
+CY-8H BTUs from AliExpress [are compatible](https://github.com/adept-anyball/mod/issues/6), with one exception so far. \
+[SP-8](https://github.com/adept-anyball/mod/issues/5) and [Veichu-15](https://github.com/adept-anyball/mod/issues/11) are not directly compatible, but there are model(s) available.
 
 ## Magnets
 
