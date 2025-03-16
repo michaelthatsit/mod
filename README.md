@@ -38,6 +38,8 @@
 
 2. Cyanoacrylate (superglue) works nice for magnets.
 
+3. If you are experiencing buttons sticking, try reassembling without the sensor cover.
+
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
 <p>
