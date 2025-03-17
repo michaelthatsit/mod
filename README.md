@@ -58,6 +58,7 @@ Also available for non-standard BTUs:
 
 <p>
   <img alt='55mm ball' src='https://github.com/user-attachments/assets/d80c5e04-c924-448d-8d6a-b7765a459fc6' width='450'/>
+  <img alt='55mm ball' src='https://github.com/user-attachments/assets/a63dc1f1-9e36-4008-807e-f848684f6cfa' width='325'/>
 </p>
 
 ## 50-55 mm ball (short version)
