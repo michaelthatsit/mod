@@ -30,8 +30,8 @@ A: Might work with 0.4mm spacers. I haven't tried that.
 Q: Why is the bottom part even here? \
 A: It is 1.2mm lower but has the sensor chip exposed. It is recommended to cover the hole with any tape. 
 
-Q: top-for-non-standard-SP8-BTUs.stl \
-A: Pretty self-explanatory, isn't it? There's no sensor cover model for this version yet.
+Q: top-for-non-standard-*-BTUs.stl \
+A: Pretty self-explanatory, isn't it? You can also go to the issues to find a relevant thread.
 
 ## Demo
 
