@@ -50,6 +50,8 @@ I haven’t tested which one prints better, so it’s entirely up to you to choo
   
 Spring Adjustments for MJF
 ====================
+![Spring Detail](https://github.com/Dexter-KBD/mod/blob/634f739cf9b138c64db2a507b7218daf26c4e0e9/50-55mm%20Ball%20(Thinner%20Bezel)/Image/spring.png?raw=true)
+
 Since MJF materials are more flexible, I’ve increased the thickness of the button spring from 0.6mm to 1.2mm.
 There are also a few other minor adjustments to help prevent damage during MJF post-processing.
 
