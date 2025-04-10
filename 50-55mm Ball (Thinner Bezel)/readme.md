@@ -2,7 +2,7 @@
 ![50-55mm Ball Side Preview](https://github.com/Dexter-KBD/mod/blob/83cc894b9fb993e3cbe6419580608828139cb136/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_2.jpg?raw=true)
 
 
-    
+***    
 Disclaimer
 ====================
 Since English is not my native language, this post was translated with the help of ChatGPT. Thank you for your understanding.
@@ -11,7 +11,7 @@ If there's anything unclear or if you have any questions, feel free to join Ploo
   https://discord.com/invite/qYK9psKrNY
 
 
-  
+***  
 About This Model
 ====================
 ![50-55mm Ball Preview](https://github.com/Dexter-KBD/mod/blob/8ee7afa14d9289efde0b2ceb388cd7a4018f164f/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg?raw=true)
