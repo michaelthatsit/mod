@@ -57,14 +57,20 @@ FDM Version Details
 The FDM version keeps the original 0.6mm spring design.
 Also, the pillar that holds the LEGO brick was removed to allow the surface to be printed facing down, resulting in better quality.
 
-====================
+
+
+
+
 Palm Rest (Bonus)
 ====================
 I’ve also included a palm rest, just in case anyone finds it useful.
 It was a quick 10-minute design, so I wasn't sure whether to share it, but I uploaded it anyway.
 Since it was printed with MJF, there is a hole at the bottom.
 
-====================
+
+
+
+
 Final Note
 ====================
 Once again, please note that I have never printed this model using FDM materials.
