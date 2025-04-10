@@ -1,4 +1,5 @@
 # 50-55mm Ball Mod (Thinner Bezel)
+![Preview](https://github.com/Dexter-KBD/mod/blob/main/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_2.jpg?raw=true)
 
 
 
@@ -61,6 +62,8 @@ Also, the pillar that holds the LEGO brick was removed to allow the surface to b
 
 Palm Rest (Bonus)
 ====================
+![Palmrest Preview](https://github.com/Dexter-KBD/mod/blob/main/50-55mm%20Ball%20(Thinner%20Bezel)/Image/Palmrest.jpg?raw=true)
+
 I’ve also included a palm rest, just in case anyone finds it useful.
 It was a quick 10-minute design, so I wasn't sure whether to share it, but I uploaded it anyway.
 Since it was printed with MJF, there is a hole at the bottom.
