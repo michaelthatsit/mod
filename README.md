@@ -70,7 +70,8 @@ Fits a 50-55 mm ball. In this mod, the bottom and top parts of the original Adep
 </p>
 
 ## 50-55mm Ball (Thinner Bezel)  
-Fits a 50-55 mm ball. In this mod, the bottom and top parts of the original Adept case have been modified.
+Fits a 50-55 mm ball. In this mod, the bottom and top parts of the original Adept case have been modified.  
+It was built based on (short version)
 <p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/Dexter-KBD/mod/blob/7e5c20a7d53ba57e26f54449fc6a730474b02995/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_2.jpg?raw=true" alt="Side View" width="48%">
