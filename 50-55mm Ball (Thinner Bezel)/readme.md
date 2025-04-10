@@ -2,7 +2,7 @@
 
 Here is a preview image of the model:
 
-![50-55mm Preview](https://github.com/Dexter-KBD/mod/blob/main/50-55mm Ball (Thinner Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg?raw=true)
+https://github.com/Dexter-KBD/mod/blob/8ee7afa14d9289efde0b2ceb388cd7a4018f164f/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg?raw=true
 
 
 ====================
