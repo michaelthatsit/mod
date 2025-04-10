@@ -1,6 +1,5 @@
 # 50-55mm Ball Mod (Thinner Bezel)
 
-![50-55mm Ball Preview](https://github.com/Dexter-KBD/mod/blob/8ee7afa14d9289efde0b2ceb388cd7a4018f164f/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg?raw=true)
 
 
 Disclaimer
@@ -13,6 +12,8 @@ If there's anything unclear or if you have any questions, feel free to join our 
 
 About This Model
 ====================
+![50-55mm Ball Preview](https://github.com/Dexter-KBD/mod/blob/8ee7afa14d9289efde0b2ceb388cd7a4018f164f/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg?raw=true)
+
 This design is a modified version based on the 55mm short version originally created by @ElMagicoDeOZ.
 I’d like to express my sincere thanks to @ElMagicoDeOZ for creating such a great model.
 
