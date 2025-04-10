@@ -23,7 +23,10 @@ About This Model
 
 This design is a modified version based on the 55mm short version originally created by [@fabriciobastian](https://github.com/fabriciobastian)
 
-https://github.com/adept-anyball/mod/tree/master/50-55mm%20ball%20(short%20version)
+[50-55mm ball (short version)](https://github.com/adept-anyball/mod/tree/master/50-55mm%20ball%20(short%20version))  
+
+
+  
 I’d like to express my sincere thanks to [@fabriciobastian](https://github.com/fabriciobastian) for creating such a great model.
 
 BOSCH Rexroth BTUs must be used. 
