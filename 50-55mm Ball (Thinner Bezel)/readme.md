@@ -7,7 +7,8 @@ Disclaimer
 ====================
 Since English is not my native language, this post was translated with the help of ChatGPT. Thank you for your understanding.
 If there's anything unclear or if you have any questions, feel free to join Ploopy Discord channel and ask anytime.
-https://discord.com/invite/qYK9psKrNY
+  
+  https://discord.com/invite/qYK9psKrNY
 
 
   
