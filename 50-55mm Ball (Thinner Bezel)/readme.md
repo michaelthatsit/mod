@@ -10,7 +10,7 @@ Since English is not my native language, this post was translated with the help 
 If there's anything unclear or if you have any questions, feel free to join [Ploopy Discord channel](https://discord.com/invite/qYK9psKrNY)
  and ask anytime.
 
-<br><br><br><br><br><br><br><br><br><br>   
+<br><br><br><br><br><br><br>
 
 
 
