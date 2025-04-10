@@ -97,10 +97,10 @@ I’ve also included a palm rest, just in case anyone finds it useful.
 It was a quick 10-minute design, so I wasn't sure whether to share it, but I uploaded it anyway.
 Since it was printed with MJF, there is a hole at the bottom.
 
-It can be too short or too narrow because it's tailored to my hand. 
-Make sure to check the size. 
-It measures 92.7mm by 79mm. 
-The height matched the case.
+It can be too short or too narrow because it's tailored to my hand.  
+Make sure to check the size.  
+It measures 92.7mm by 79mm.  
+The height matched the case.  
 <br><br><br><br><br><br><br><br><br><br>
 
 
