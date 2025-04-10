@@ -4,7 +4,6 @@
 
 ***    
 Disclaimer
-***
 ====================
 Since English is not my native language, this post was translated with the help of ChatGPT. Thank you for your understanding.
 If there's anything unclear or if you have any questions, feel free to join Ploopy Discord channel and ask anytime.
@@ -12,6 +11,9 @@ If there's anything unclear or if you have any questions, feel free to join Ploo
   https://discord.com/invite/qYK9psKrNY
 
 
+
+
+      
 ***  
 About This Model
 ====================
@@ -29,7 +31,9 @@ https://www.robaraindustries.com/en/product/42563/ball-transfer-units-r053010810
 I bought it on this site (it took me 3 weeks with the cheapest shipping option)
 
 
-  
+    
+
+***
 About the LEGO-Compatible Case
 ====================
 The case with LEGO brick mounts was designed specifically for 3D printing using PA12 MJF material.
