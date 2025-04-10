@@ -7,9 +7,9 @@
 Disclaimer
 ====================
 Since English is not my native language, this post was translated with the help of ChatGPT. Thank you for your understanding.
-If there's anything unclear or if you have any questions, feel free to join Ploopy Discord channel and ask anytime.
-  
-  https://discord.com/invite/qYK9psKrNY
+If there's anything unclear or if you have any questions, feel free to join [Ploopy Discord channel](https://discord.com/invite/qYK9psKrNY)
+ and ask anytime.
+
 <br><br><br><br><br><br><br><br><br><br>   
 
 
@@ -28,8 +28,8 @@ I’d like to express my sincere thanks to [@fabriciobastian](https://github.com
 
 BOSCH Rexroth BTUs must be used. 
 I haven't tried anything else, but looking at users' reviews, it's terrible. Buy BOSCH Rexroth BTUs. 
-https://www.robaraindustries.com/en/product/42563/ball-transfer-units-r053010810-ku-b8-ofk-rex.html
-I bought it on this site (it took me 3 weeks with the cheapest shipping option)
+I bought it on [this site](https://www.robaraindustries.com/en/product/42563/ball-transfer-units-r053010810-ku-b8-ofk-rex.html)
+ (it took me 3 weeks with the cheapest shipping option)
 <br><br><br><br><br><br><br><br><br><br>
 
 
