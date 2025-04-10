@@ -16,9 +16,15 @@ About This Model
 ![50-55mm Ball Preview](https://github.com/Dexter-KBD/mod/blob/8ee7afa14d9289efde0b2ceb388cd7a4018f164f/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg?raw=true)
 
 This design is a modified version based on the 55mm short version originally created by @ElMagicoDeOZ.
+https://github.com/adept-anyball/mod/tree/master/50-55mm%20ball%20(short%20version)
 I’d like to express my sincere thanks to @ElMagicoDeOZ for creating such a great model.
 
 
+
+BOSCH Rexroth BTUs must be used. 
+I haven't tried anything else, but looking at users' reviews, it's terrible. Buy BOSCH Rexroth BTUs. 
+https://www.robaraindustries.com/en/product/42563/ball-transfer-units-r053010810-ku-b8-ofk-rex.html
+I bought it on this site (it took me 3 weeks with the cheapest shipping option)
 
 
   
