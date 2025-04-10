@@ -1,4 +1,8 @@
-![Preview](https://raw.githubusercontent.com/Dexter-KBD/mod/main/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg)
+# 50-55mm Ball Mod (Thinner Bezel)
+
+Here is a preview image of the model:
+
+![50-55mm Preview](https://github.com/Dexter-KBD/mod/blob/main/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_1.jpg?raw=true)
 
 
 ====================
