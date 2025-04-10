@@ -1,3 +1,4 @@
+***
 # 50-55mm Ball Mod (Thinner Bezel)
 ![50-55mm Ball Side Preview](https://github.com/Dexter-KBD/mod/blob/83cc894b9fb993e3cbe6419580608828139cb136/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_2.jpg?raw=true)
 
@@ -47,7 +48,7 @@ So, I have also included a modified version optimized for FDM printing that does
 
 
 
-
+***
 FDM-Specific Versions
 ====================
 ![BTU Top for FDM (Fillet/Chamfer)](https://github.com/Dexter-KBD/mod/blob/5a980747faac74fdc6aa74962dc1e30e391c58c4/50-55mm%20Ball%20(Thinner%20Bezel)/Image/BTU%20top%20for%20FDM%20fillet-cham.png?raw=true)
@@ -59,7 +60,7 @@ I haven’t tested which one prints better, so it’s entirely up to you to choo
 
 
 
-  
+***  
 Spring Adjustments for MJF
 ====================
 ![Spring Detail](https://github.com/Dexter-KBD/mod/blob/634f739cf9b138c64db2a507b7218daf26c4e0e9/50-55mm%20Ball%20(Thinner%20Bezel)/Image/spring.png?raw=true)
@@ -70,7 +71,7 @@ There are also a few other minor adjustments to help prevent damage during MJF p
 
 
 
-  
+***  
 FDM Version Details
 ====================
 The FDM version keeps the original 0.6mm spring design.
@@ -79,7 +80,7 @@ Also, the pillar that holds the LEGO brick was removed to allow the surface to b
 
 
 
-  
+***  
 Palm Rest (Bonus)
 ====================
 ![Palmrest Preview](https://github.com/Dexter-KBD/mod/blob/83cc894b9fb993e3cbe6419580608828139cb136/50-55mm%20Ball%20(Thinner%20Bezel)/Image/Palmrest.jpg?raw=true)
@@ -90,7 +91,7 @@ Since it was printed with MJF, there is a hole at the bottom.
 
 
 
-  
+***  
 Final Note
 ====================
 Once again, please note that I have never printed this model using FDM materials.
