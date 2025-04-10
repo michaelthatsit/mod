@@ -1,6 +1,8 @@
  # <img src='https://github.com/user-attachments/assets/3701cadf-f646-45d5-99ed-bb742a3afe20' width='24' />50-55mm Ball Mod (Thinner Bezel)
 ![50-55mm Ball Side Preview](https://github.com/Dexter-KBD/mod/blob/83cc894b9fb993e3cbe6419580608828139cb136/50-55mm%20Ball%20(Thinner%20Bezel)/Image/50-55mm-Ball-_Thinner-Bezel_2.jpg?raw=true)
 > ✅ [ISO-2025EFOG](https://github.com/efogdev/ISO-2025EFOG) compliant
+> This mod is an adaptation of the original case where the top and bottom of the original adept are changed. The optics cover (bottom of the top case) is the same as the original.
+The mod is designed for a 55mm ball, but works with 50-55mm balls.
    
 Disclaimer
 ====================
