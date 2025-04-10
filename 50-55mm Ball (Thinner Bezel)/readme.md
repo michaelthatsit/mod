@@ -10,11 +10,12 @@ Since English is not my native language, this post was translated with the help 
 If there's anything unclear or if you have any questions, feel free to join Ploopy Discord channel and ask anytime.
   
   https://discord.com/invite/qYK9psKrNY
+<br><br><br><br><br>   
 
 
 
 
-      
+
 ***  
 About This Model
 ====================
@@ -24,15 +25,15 @@ This design is a modified version based on the 55mm short version originally cre
 https://github.com/adept-anyball/mod/tree/master/50-55mm%20ball%20(short%20version)
 I’d like to express my sincere thanks to @ElMagicoDeOZ for creating such a great model.
 
-
-
 BOSCH Rexroth BTUs must be used. 
 I haven't tried anything else, but looking at users' reviews, it's terrible. Buy BOSCH Rexroth BTUs. 
 https://www.robaraindustries.com/en/product/42563/ball-transfer-units-r053010810-ku-b8-ofk-rex.html
 I bought it on this site (it took me 3 weeks with the cheapest shipping option)
+<br><br><br><br><br>
 
 
-    
+
+
 
 ***
 About the LEGO-Compatible Case
@@ -44,6 +45,8 @@ This structure relies on MJF’s powder-based printing method to be printed prop
 Because of this, using this file with FDM printing will require support structures.
 Since I don’t have in-depth knowledge of 3D printing, I wasn’t able to figure out a way to print this model without supports.
 So, I have also included a modified version optimized for FDM printing that does not require support.
+<br><br><br><br><br>
+
 
 
 
@@ -56,6 +59,8 @@ FDM-Specific Versions
 To help ensure better print quality with FDM, I’ve included two versions:
 one with chamfered corners and one with filleted edges.
 I haven’t tested which one prints better, so it’s entirely up to you to choose.
+<br><br><br><br><br>
+
 
 
 
@@ -67,6 +72,8 @@ Spring Adjustments for MJF
 
 Since MJF materials are more flexible, I’ve increased the thickness of the button spring from 0.6mm to 1.2mm.
 There are also a few other minor adjustments to help prevent damage during MJF post-processing.
+<br><br><br><br><br>
+
 
 
 
@@ -76,6 +83,8 @@ FDM Version Details
 ====================
 The FDM version keeps the original 0.6mm spring design.
 Also, the pillar that holds the LEGO brick was removed to allow the surface to be printed facing down, resulting in better quality.
+<br><br><br><br><br>
+
 
 
 
@@ -87,6 +96,8 @@ Palm Rest (Bonus)
 I’ve also included a palm rest, just in case anyone finds it useful.
 It was a quick 10-minute design, so I wasn't sure whether to share it, but I uploaded it anyway.
 Since it was printed with MJF, there is a hole at the bottom.
+<br><br><br><br><br>
+
 
 
 
