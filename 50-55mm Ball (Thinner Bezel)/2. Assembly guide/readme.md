@@ -4,7 +4,7 @@
 
 Once your parts arrive from JLC, check everything carefully.  
 If any parts are missing or the surface finish has issues, file a quality complaint.  
-In my experience, JLC's customer service has responded well in most cases — their support is excellent.
+In my experience, JLC's customer service has responded well in most cases their support is excellent.
 ![Surface Cleaning](https://github.com/Dexter-KBD/mod/blob/316abd50027329fc95061f0bf5042964325b481b/50-55mm%20Ball%20(Thinner%20Bezel)/Image/Assembly%20guide/dirty.JPEG?raw=true)
 
 Due to the MJF post-processing method, there may be some black powder residue on the surface.  
@@ -36,7 +36,7 @@ If you're worried about accidental liquid spills entering through this hole, it'
 ![BTU Installation](https://github.com/Dexter-KBD/mod/blob/316abd50027329fc95061f0bf5042964325b481b/50-55mm%20Ball%20(Thinner%20Bezel)/Image/Assembly%20guide/btu.JPEG?raw=true)
 
 Combine the top shell and fasten the screws.  
-You may not feel a tight grip — that’s okay. Gently try pulling the two halves apart.  
+You may not feel a tight grip. that’s okay. Gently try pulling the two halves apart.  
 If they stay together, the fit is good enough.
 
 At this point, **press all six buttons** to ensure they actuate correctly.  
