@@ -60,7 +60,7 @@ You can reuse the screws from the original Adept. If you need more, use #2 3/8" 
 
 Yes, you’ll need a LEGO brick to fit into the 6 o’clock position of the case. Prepare a few small ones (1x1 or 1x3 size).
 
-====================
+
 
 # How to Order from JLC3DP
 
