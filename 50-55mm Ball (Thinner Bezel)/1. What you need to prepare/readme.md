@@ -16,14 +16,22 @@ You need only the top and bottom parts. The original sensor cover is reused. If 
 ## 3. Buttons
 ![Button Options](https://github.com/Dexter-KBD/mod/blob/2214381592c6c7575f5236278ba0c75243d5aece/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/button.JPEG?raw=true)
 
-Choose buttons that fit your hand and print them. Here's a link with various button options. The best approach is to use the original Adept buttons, get used to how the trackball works, and then determine which height suits each button. Note: if you're using the 55mm mod, the trackball sits higher, so the back buttons need to be taller. I recommend printing extras in different heights to test. The linked files already include buttons of different heights and angles.
+Choose buttons that fit your hand and print them. [Here's a link](https://github.com/adept-anyball/mod/tree/master/buttons)
+ with various button options. The best approach is to use the original Adept buttons, get used to how the trackball works, and then determine which height suits each button. Note: if you're using the 55mm mod, the trackball sits higher, so the back buttons need to be taller. I recommend printing extras in different heights to test. The linked files already include buttons of different heights and angles.
 I printed both the case and buttons using PA12 MJF at JLC3DP. I'll explain how to order from them below.
 
 ## 4. Magnets
-You’ll need round magnets with 4mm diameter and 2mm height for the case and buttons. Some cheap magnets may be only 1.7mm thick. Try to find ones that are closer to 2mm based on product reviews. 1.7mm still works, but if you want stronger attachment, go for 2mm. I bought mine from Taobao, but Amazon or local hardware stores should have them too.
+![Magnets](https://github.com/Dexter-KBD/mod/blob/86766393406f16cc5e7c91220ca6cac66c7ee5b8/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/magnet.JPEG?raw=true)
+
+You’ll need round magnets with 4mm diameter and 2mm height for the case and buttons. Some cheap magnets may be only 1.7mm thick. Try to find ones that are closer to 2mm based on product reviews. 1.7mm still works, but if you want stronger attachment, go for 2mm. I bought mine from [Taobao](https://item.taobao.com/item.htm?_u=b206uqikd120b5&id=625305954944&spm=a1z09.2.0.0.7f582e8dCcXpoh)
+, but Amazon or local hardware stores should have them too.
 
 ## 5. BTUs (Ball Transfer Units)
-Use the Rexroth brand. I do not recommend other brands. Over 90% of the mod’s quality depends on the BTU. You can use alternatives, but I haven’t tested them—so issues may arise. Discuss in the Discord if you want to know more. If Rexroth is available in your country, please use it. I ordered mine from a supplier with the cheapest shipping, which took 3 weeks, but it arrived safely.
+![Rexroth BTU](https://github.com/Dexter-KBD/mod/blob/86766393406f16cc5e7c91220ca6cac66c7ee5b8/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/rexroth.JPEG?raw=true)
+
+Use the [Rexroth](https://www.robaraindustries.com/en/product/42563/ball-transfer-units-r053010810-ku-b8-ofk-rex.html)
+ brand. I do not recommend other brands. Over 90% of the mod’s quality depends on the BTU. You can use alternatives, but I haven’t tested them—so issues may arise. Discuss in the Discord if you want to know more. If Rexroth is available in your country, please use it. I [ordered mine](https://www.robaraindustries.com/en/product/42563/ball-transfer-units-r053010810-ku-b8-ofk-rex.html)
+ from a supplier with the cheapest shipping, which took 3 weeks, but it arrived safely.
 
 ## 6. Ball
 You cannot use the original 45mm ball. Prepare a 50–55mm ball instead. I'm currently using a 52.5mm snooker ball and a 55mm Sanwa trackball, both of which work great.
