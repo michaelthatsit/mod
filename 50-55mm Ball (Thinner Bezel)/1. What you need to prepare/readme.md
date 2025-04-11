@@ -86,7 +86,7 @@ For buttons: prepare each button as a separate file or merge them manually.![JLC
 Double-check everything before placing your order.
 JLC engineers will review your files before production. As mentioned, if there are thin walls, you’ll get a confirmation email. Be sure to reply, or the order won’t proceed.
 
-Since manufacturing is done in China, I’m not sure how current US import tariffs may affect you—hopefully there won’t be any additional cost.
+Since manufacturing is done in China, I’m not sure how current US import tariffs may affect you hopefully there won’t be any additional cost.
 
 Once the package arrives, your preparation is complete.  
 See you in the assembly guide!
