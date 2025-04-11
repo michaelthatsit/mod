@@ -36,7 +36,9 @@ Use the [Rexroth](https://www.robaraindustries.com/en/product/42563/ball-transfe
 ## 6. Ball
 ![Ball Example](https://github.com/Dexter-KBD/mod/blob/d0c041ce82b9a391e1d5a0b9aec43c3216a7e157/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/ball.JPEG?raw=true)
 
-You cannot use the original 45mm ball. Prepare a 50–55mm ball instead. I'm currently using a 52.5mm snooker ball and a 55mm Sanwa trackball, both of which work great.
+You cannot use the original 45mm ball. Prepare a 50–55mm ball instead. I'm currently using a [52.5mm snooker ball](http://item.taobao.com/item.htm?_u=b206uqikd1f786&id=716787460543&spm=a1z09.2.0.0.7f582e8dCcXpoh)
+ and a [55mm Sanwa trackball](https://item.taobao.com/item.htm?_u=b206uqikd1fe7f&id=724775117995&spm=a1z09.2.0.0.7f582e8dCcXpoh)
+, both of which work great.
 
 ## 7. Palm Rest (Optional)
 When using the original Adept, I didn’t need a palm rest. However, the BTU mod raises the height and makes the ball much smoother, which made precise control harder without wrist support. I designed and shared a palm rest that fits my hand. Printing with MJF isn’t cheap, so feel free to explore cheaper alternatives like wood or acrylic.
@@ -50,7 +52,8 @@ You don’t have to use super glue, but you'll need something to attach the magn
 ## 10. Screws
 ![Screws](https://github.com/Dexter-KBD/mod/blob/d0c041ce82b9a391e1d5a0b9aec43c3216a7e157/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/screw.JPEG?raw=true)
 
-You can reuse the screws from the original Adept. If you need more, use #2 3/8" screws. I personally used M2.2 9.5mm screws.
+You can reuse the screws from the original Adept. If you need more, use #2 3/8" screws. I personally used [M2.2 9.5mm screws](https://item.taobao.com/item.htm?_u=b206uqikd1cba0&id=589373168768&pisk=gJRa9DqnafhNE_IOIB14UqPf355OisoSmIsfoEYc5GjiHNG0gE8llVnxWp7DcH3xW1Tc0n-CvS_jBmF2YhTkCOtXCibcxHY_1iGO3n8W2nNj6d_0gHTAnnO2kS7Don3OcVHBWFCAi0i5gbT9WAzYUdRaiXYHJNbgSv6gQX8sR0iSNjkg-soZVhN5GQ3hzafcStbgx27f7SVMmtb3KMQAolb0s2uFvZygnNb0xJbAyofcSSchxabAS-V0sJ4hvZfcoZbi8ejdusjmHPtDXWSFIq96U-_SA0WOqFjUi7rd7ODJ5-N4gyQOIgX3q7NWkNWNqFjE2ECXm9YA3IUYgGYMenQkjlm5BEveYN-IvJ7eFhdPtQmLgn8J9H7HqjP5jeLWFOdih76PTGWHseMza1xOPUb9q0l1dh9hFLxjo8SvRLWDFOqQd3YBPCBpg0rhDd_RtaTt_W5kSdOO1poLLMAeoCB5ZgJUDwjfxIpam-WGJwSS8289HY9JRR04u-eALvQFV438H-BGJwSS-A2YH9kN8ggzp&spm=a1z09.2.0.0.65af2e8dNeJc6F&skuId=5124045155202)
+.
 
 ## 11. LEGO Bricks
 ![LEGO Brick](https://github.com/Dexter-KBD/mod/blob/d0c041ce82b9a391e1d5a0b9aec43c3216a7e157/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/brick.JPEG?raw=true)
@@ -62,18 +65,22 @@ Yes, you’ll need a LEGO brick to fit into the 6 o’clock position of the case
 # How to Order from JLC3DP
 
 You’ve probably already downloaded the required files. Go to the site, log in, and drag & drop the files. STEP or STL files are both fine. I uploaded STEP files (STL versions were shared upon user request).
+![JLC3DP Upload Screenshot](https://github.com/Dexter-KBD/mod/blob/5a2223908f62b79b6bb7cffa3ec54ed72d958ed7/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/jlc1.png?raw=true)
 
 Select the same options as shown in the image.
+![JLC3DP Options](https://github.com/Dexter-KBD/mod/blob/5a2223908f62b79b6bb7cffa3ec54ed72d958ed7/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/jlc2.png?raw=true)
 
 Be sure to check the box for accepting thin wall risks. It's usually not an issue. In my first prototype (0.9mm thickness), one button spring broke. Now I’ve improved it to 1.2mm, so the risk is lower.
 
 Even if you check the box, JLC may still email you for confirmation regarding thin walls. Just confirm and proceed.
 
 Yes, MJF isn’t cheap. But compared to FDM PLA, it guarantees much better surface quality. If you're curious about the types of 3D printing, I recommend watching some YouTube videos or doing a bit of research. Each printing method has its pros and cons—too much to cover here.
+![JLC3DP Confirmation](https://github.com/Dexter-KBD/mod/blob/5a2223908f62b79b6bb7cffa3ec54ed72d958ed7/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/jlc3.png?raw=true)
 
 Select “Product Desc” when ordering. It’s for customs in your country. You don’t need to match my screenshot exactly. These parts aren’t banned, so you don’t need to worry.
 
-For buttons: prepare each button as a separate file or merge them manually. Orders with multiple shells in one file will be rejected. If you’re a beginner reading this, just export one button at a time as a STEP file and only print what you need.
+For buttons: prepare each button as a separate file or merge them manually.![JLC3DP Product Desc](https://github.com/Dexter-KBD/mod/blob/5a2223908f62b79b6bb7cffa3ec54ed72d958ed7/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/jlc4.png?raw=true)
+ Orders with multiple shells in one file will be rejected. If you’re a beginner reading this, just export one button at a time as a STEP file and only print what you need.
 
 Double-check everything before placing your order.
 JLC engineers will review your files before production. As mentioned, if there are thin walls, you’ll get a confirmation email. Be sure to reply, or the order won’t proceed.
