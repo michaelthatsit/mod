@@ -9,14 +9,14 @@ Due to the MJF post-processing method, there may be some black powder residue on
 You can wipe it off or gently clean it using mild detergent.  
 Although MJF prints are quite sturdy, be especially careful with the **top case spring structure**, which can be fragile.
 
----
+
 
 ## 1. Attach the Bumpers (If Needed)
 
 If you're using bumpers, attach them first.  
 You could attach them later, but if you flip the case after installing the BTUs, they may fall off and cause annoyance.
 
----
+
 
 ## 2. Insert the PCB into the Bottom Case
 
@@ -24,7 +24,7 @@ Place the PCB into the bottom shell.
 The grooves are designed to align precisely, so it should fit easily.  
 Then place the **sensor cover** on top of the PCB.
 
----
+
 
 ## 3. Assemble the Top Shell and Tighten Screws
 
@@ -42,7 +42,7 @@ I printed this mod twice, and both had different BTU fitment.
 
 If too tight, don't worry — you can **push the BTUs out from underneath** using a stick through the bottom of the top case.
 
----
+
 
 ## 4. Attach the Magnets
 
@@ -59,7 +59,7 @@ Since the buttons will stick to the case, you need to attach the case magnets wi
 
 If you accidentally attach the same polarity on both sides, the buttons will repel and not stick.
 
----
+
 
 ## 5. Place the Ball and Insert LEGO Brick
 
