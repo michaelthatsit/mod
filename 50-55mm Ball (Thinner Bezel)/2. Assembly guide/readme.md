@@ -77,7 +77,7 @@ Place the trackball into the BTUs, and fit an appropriate LEGO brick into the 6 
 Then, upload your VIA or Vial firmware and start using the device.
 
 At first, it may feel **extremely smooth**, making fine control difficult.  
-That’s okay — with a bit of practice, you’ll get used to it.
+That’s okay with a bit of practice, you’ll get used to it.
 
 ---
 
