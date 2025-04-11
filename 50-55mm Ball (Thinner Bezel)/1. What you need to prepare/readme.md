@@ -34,6 +34,8 @@ Use the [Rexroth](https://www.robaraindustries.com/en/product/42563/ball-transfe
  from a supplier with the cheapest shipping, which took 3 weeks, but it arrived safely.
 
 ## 6. Ball
+![Ball Example](https://github.com/Dexter-KBD/mod/blob/d0c041ce82b9a391e1d5a0b9aec43c3216a7e157/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/ball.JPEG?raw=true)
+
 You cannot use the original 45mm ball. Prepare a 50–55mm ball instead. I'm currently using a 52.5mm snooker ball and a 55mm Sanwa trackball, both of which work great.
 
 ## 7. Palm Rest (Optional)
@@ -46,9 +48,13 @@ The bottom of the case has small holes designed for bumpers to prevent sliding. 
 You don’t have to use super glue, but you'll need something to attach the magnets to the case and buttons.
 
 ## 10. Screws
+![Screws](https://github.com/Dexter-KBD/mod/blob/d0c041ce82b9a391e1d5a0b9aec43c3216a7e157/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/screw.JPEG?raw=true)
+
 You can reuse the screws from the original Adept. If you need more, use #2 3/8" screws. I personally used M2.2 9.5mm screws.
 
 ## 11. LEGO Bricks
+![LEGO Brick](https://github.com/Dexter-KBD/mod/blob/d0c041ce82b9a391e1d5a0b9aec43c3216a7e157/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/brick.JPEG?raw=true)
+
 Yes, you’ll need a LEGO brick to fit into the 6 o’clock position of the case. Prepare a few small ones (1x1 or 1x3 size).
 
 ====================
