@@ -64,7 +64,8 @@ Yes, you’ll need a LEGO brick to fit into the 6 o’clock position of the case
 
 # How to Order from JLC3DP
 
-You’ve probably already downloaded the required files. Go to the site, log in, and drag & drop the files. STEP or STL files are both fine. I uploaded STEP files (STL versions were shared upon user request).
+You’ve probably already downloaded the required files. [Go to the site](https://jlc3dp.com/3d-printing-quote?spm=Jlc3dp.Homepage.1011.d1)
+, log in, and drag & drop the files. STEP or STL files are both fine. I uploaded STEP files (STL versions were shared upon user request).
 ![JLC3DP Upload Screenshot](https://github.com/Dexter-KBD/mod/blob/5a2223908f62b79b6bb7cffa3ec54ed72d958ed7/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/jlc1.png?raw=true)
 
 Select the same options as shown in the image.
