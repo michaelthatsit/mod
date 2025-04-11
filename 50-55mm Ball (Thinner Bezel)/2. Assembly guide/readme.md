@@ -17,7 +17,7 @@ Although MJF prints are quite sturdy, be especially careful with the **top case 
 ![Bumper Attachment](https://github.com/Dexter-KBD/mod/blob/316abd50027329fc95061f0bf5042964325b481b/50-55mm%20Ball%20(Thinner%20Bezel)/Image/Assembly%20guide/bum.JPEG?raw=true)
 
 If you're using bumpers, attach them first.  
-You could attach them later, but if you flip the case after installing the BTUs, they may fall off and cause annoyance.
+You could attach them later, but if you flip the case after installing the BTUs, BTUs may fall off and cause annoyance.
 
 
 
