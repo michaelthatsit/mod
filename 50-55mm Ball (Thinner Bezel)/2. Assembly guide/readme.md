@@ -28,6 +28,8 @@ Place the PCB into the bottom shell.
 The grooves are designed to align precisely, so it should fit easily.  
 Then place the **sensor cover** on top of the PCB.
 
+There is a hole at the bottom of the case to lower the overall height of the trackball.  
+If you're worried about accidental liquid spills entering through this hole, it's recommended to cover it with tape for protection.
 
 
 ## 3. Assemble the Top Shell and Tighten Screws
