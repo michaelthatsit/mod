@@ -2,7 +2,9 @@
 Beginner Guide: What You Need to Prepare for the Ploopy Adept Mod
 
 1. Ploopy Adept PCB
-You can either purchase a fully assembled version from the official Ploopy website or build one yourself using the open-source files. If you're a beginner and unfamiliar with soldering or hardware, I recommend buying the prebuilt version. If you're an experienced builder, you probably don’t need my advice.
+You can either purchase a [fully assembled version](https://ploopy.co/shop/adept-trackball-fully-assembled/)
+ from the official Ploopy website or build one yourself using the [open-source files](https://github.com/ploopyco/adept-trackball/tree/master/hardware/electronics)
+. If you're a beginner and unfamiliar with soldering or hardware, I recommend buying the prebuilt version. If you're an experienced builder, you probably don’t need my advice.
 
 2. Case for the Mod
 You need only the top and bottom parts. The original sensor cover is reused. If you're not buying the prebuilt version from the official site and are instead building your own PCB, you will also need the sensor cover. (It's mainly for dust protection, so the device will still function without it.)
