@@ -1,7 +1,7 @@
 
-#Beginner Guide: What You Need to Prepare for the Ploopy Adept Mod
+# Beginner Guide: What You Need to Prepare for the Ploopy Adept Mod
 
-##1. Ploopy Adept PCB
+## 1. Ploopy Adept PCB
    ![Ploopy Adept PCB](https://github.com/Dexter-KBD/mod/blob/1e3f978ae3a59751fb3961051025207c8c4c8a05/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/ploopy%20adept%20pcb.JPEG?raw=true)
 
 You can either purchase a [fully assembled version](https://ploopy.co/shop/adept-trackball-fully-assembled/)
