@@ -9,7 +9,6 @@ You need only the top and bottom parts. The original sensor cover is reused. If 
 
 3. Buttons
 Choose buttons that fit your hand and print them. Here's a link with various button options. The best approach is to use the original Adept buttons, get used to how the trackball works, and then determine which height suits each button. Note: if you're using the 55mm mod, the trackball sits higher, so the back buttons need to be taller. I recommend printing extras in different heights to test. The linked files already include buttons of different heights and angles.
-
 I printed both the case and buttons using PA12 MJF at JLC3DP. I'll explain how to order from them below.
 
 4. Magnets
