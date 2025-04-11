@@ -59,7 +59,7 @@ You can reuse the screws from the original Adept. If you need more, use #2 3/8" 
 ![LEGO Brick](https://github.com/Dexter-KBD/mod/blob/d0c041ce82b9a391e1d5a0b9aec43c3216a7e157/50-55mm%20Ball%20(Thinner%20Bezel)/Image/What%20you%20need%20to%20prepare/brick.JPEG?raw=true)
 
 Yes, you’ll need a LEGO brick to fit into the 6 o’clock position of the case. Prepare a few small ones (1x1 or 1x3 size).
-
+<br><br><br>
 
 
 # How to Order from JLC3DP
