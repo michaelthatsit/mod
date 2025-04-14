@@ -1,6 +1,7 @@
 # <img src='https://github.com/user-attachments/assets/3701cadf-f646-45d5-99ed-bb742a3afe20' width='24' /> Adept Anyball
 
-[Ploopy Adept](https://ploopy.co/adept-trackball) mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with optional <a href='#magnets'>magnetically</a> attachable buttons.
+[Ploopy Adept](https://ploopy.co/adept-trackball) mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with optional <a href='#magnets'>magnetically</a> attachable buttons. \
+Various adapters are available, making it possible to use not just BTUs but also default ball bearings, static bearings. 
 
 <img src='https://github.com/user-attachments/assets/2b93e8b8-df7b-4a21-967f-d1aeba64710c' width='640' />
 
