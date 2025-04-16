@@ -19,3 +19,9 @@ Not recommended for heavy balls. \
 
 Allows default Ploopy MR63 ball bearings to be installed. \
 [Github issue](https://github.com/adept-anyball/mod/issues/22)
+
+## Notes
+
+Please print adapters oriented like this:
+
+![image](https://github.com/user-attachments/assets/44a4ddd5-fa75-413c-bf83-621d95cbe0e8)
