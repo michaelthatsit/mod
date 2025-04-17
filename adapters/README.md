@@ -1,7 +1,7 @@
 ## Adapters
 
 This folder contains various adapters. \
-Most work best with TPU, but PETG and PLA are also fine. 
+Most work best with TPU, but PETG and PLA are also fine.
 
 ### Veichu
 
@@ -9,11 +9,29 @@ Allows Veichu 7.5mm BTUs to be used instead of Rexroth ones. \
 Not recommended for >50mm balls. \
 [Github issue](https://github.com/adept-anyball/mod/issues/4)
 
-### Static 
+### Static
 
-Allows static bearings of size 3-3.5mm to be instaleed. \
-Not recommended for heavy balls. \
 [Github issue](https://github.com/adept-anyball/mod/issues/8)
+
+#### 3-3.5mm
+
+Allows static bearings of size 3-3.5mm to be installed. \
+Not recommended for heavy balls.
+
+#### 2.5mm
+
+Allows static bearings of 2.5mm to be installed
+
+> This adapted consists of 2 parts, so make sure to split it in your slicer. \
+> This adapter requires no supports to be printed. \
+> The 3mf is included too, if you have a Bambu Labs printer. It is recommended to print with a layer height of .1mm and width of .3mm, since the parts are small.
+
+To use it, insert the bearing ball in the bottom of the adapter. Slide the bottom part in the top part and turn the bottom to lock.
+
+<p>
+  <img src='./images/static-2.5mm-step-1.png' height='300' float='left'>
+  <img src='./images/static-2.5mm-step-2.png' height='300' float='right' />
+</p>
 
 ### MR63 ball bearings
 
