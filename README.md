@@ -106,7 +106,8 @@ You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld
 </p>
 
 CY-8H BTUs from AliExpress [are compatible](https://github.com/adept-anyball/mod/issues/6), with one exception so far. \
-[SP-8](https://github.com/adept-anyball/mod/issues/5) and [Veichu-15](https://github.com/adept-anyball/mod/issues/11) are not directly compatible, but there are model(s) available.
+[SP-8](https://github.com/adept-anyball/mod/issues/5) and [Veichu-15](https://github.com/adept-anyball/mod/issues/11) are not directly compatible, but there are model(s) available. \
+Rexroth BTUs are clearly superior and are highly recommended.
 
 ## Magnets
 
