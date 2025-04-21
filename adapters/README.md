@@ -15,7 +15,7 @@ Not recommended for >50mm balls. \
 
 #### 3-3.5mm
 
-Allows static bearings of size 3-3.5mm to be installed. \
+Allows static bearings of size 3-3.5mm to be installed (with glue). \
 Not recommended for heavy balls.
 
 #### 2.5mm, 3mm and 3.5mm (no glue - 2 pieces)
