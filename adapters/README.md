@@ -18,13 +18,15 @@ Not recommended for >50mm balls. \
 Allows static bearings of size 3-3.5mm to be installed. \
 Not recommended for heavy balls.
 
-#### 2.5mm
+#### 2.5mm and 3.5mm (no glue - 2 pieces)
 
-Allows static bearings of 2.5mm to be installed
+Allows static bearings of 2.5mm or 3.5mm to be installed (choose the correct file according to the size of the bearing)
 
 > This adapted consists of 2 parts, so make sure to split it in your slicer. \
 > This adapter requires no supports to be printed. \
-> The 3mf is included too, if you have a Bambu Labs printer. It is recommended to print with a layer height of .1mm and width of .3mm, since the parts are small.
+> The 3mf for the 2.5mm is included too, if you have a Bambu Labs printer. It is recommended to print with a layer height of .1mm and width of .3mm, since the parts are small.
+
+> **DISCLAIMER: Since I don't have any 3.5mm static bearing at hand, this 3.5mm model is untested.**
 
 To use it, insert the bearing ball in the bottom of the adapter. Slide the bottom part in the top part and turn the bottom to lock.
 
