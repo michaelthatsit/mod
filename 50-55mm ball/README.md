@@ -31,7 +31,7 @@ Q: Why is the bottom part even here? \
 A: It is 1.2mm lower but has the sensor chip exposed. It is recommended to cover the hole with any tape. 
 
 Q: top-for-non-standard-*-BTUs.stl \
-A: Pretty self-explanatory, isn't it? You can also go to the issues to find a relevant thread.
+A: Pretty self-explanatory, isn't it? You can also go to the issues to find a relevant thread. Please make sure to "split to object" in your slicer before printing.
 
 ## Demo
 
