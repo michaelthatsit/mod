@@ -1,6 +1,6 @@
 # Buttons
 
-The buttons in this folder are [ISO-2025EFOG](https://github.com/efogdev/ISO-2025EFOG) compliant and are compatible with the mods that follow the standard.
+The buttons in this folder are [ISO-2025EFOG](https://github.com/efogdev/ISO-2025EFOG) compliant and are compatible with the mods that follow the standard. The shape and size are absolutely identical to the default Ploopy buttons.
 
 ## Spherical 5mm
 
