@@ -38,7 +38,7 @@ Various adapters are available, making it possible to use not just BTUs but also
 
 2. Cyanoacrylate (superglue) works nice for magnets.
 
-3. If you are experiencing buttons sticking, try reassembling without the sensor cover.
+3. If you experience buttons sticking, try loosening the screws.
 
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
