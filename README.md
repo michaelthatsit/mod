@@ -32,6 +32,8 @@ Various adapters are available, making it possible to use not just BTUs but also
 
 3. If you experience bad tracking, you may want to print and install spacers.
 
+4. It is highly recommended to use STL files for printing (if you use Slic3r forks, i.e. Prusa-, Orca-, Bambu Slicer. 
+
 ### Other
 
 1. Insert magnets on a flat hard surface while the device is not assembled.
