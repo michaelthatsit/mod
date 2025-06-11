@@ -24,13 +24,13 @@ Various adapters are available, making it possible to use not just BTUs but also
 
 ## General tips
 
+> ❗️ **Important!** Use STL (not STEP) files for Slic3r forks, i.e. Prusa-, Orca-, Bambu Slicer. STEPs are for CADs.
+
 ### Printing
 
 1. There MUST be no supports, unless you really know what you are doing.
 
 2. PLA, PETG, ABS — any of those are fine. 
-
-3. It is highly recommended to use STL files for Slic3r forks, i.e. Prusa-, Orca-, Bambu Slicer. 
 
 ### Other
 
