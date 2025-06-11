@@ -30,9 +30,7 @@ Various adapters are available, making it possible to use not just BTUs but also
 
 2. PLA, PETG, ABS — any of those are fine. 
 
-3. If you experience bad tracking, you may want to print and install spacers.
-
-4. It is highly recommended to use STL files for Slic3r forks, i.e. Prusa-, Orca-, Bambu Slicer. 
+3. It is highly recommended to use STL files for Slic3r forks, i.e. Prusa-, Orca-, Bambu Slicer. 
 
 ### Other
 
@@ -40,7 +38,9 @@ Various adapters are available, making it possible to use not just BTUs but also
 
 2. Cyanoacrylate (superglue) works nice for magnets.
 
-3. If you experience buttons sticking, try loosening the screws.
+3. If you experience buttons sticking, try loosening the screws or removing the sensor cover.
+
+4. If you experience bad tracking, you may want to print and install spacers.
 
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
