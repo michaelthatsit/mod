@@ -27,7 +27,7 @@ Various adapters are available, making it possible to use not just BTUs but also
 > ❗️ **Important!** \
 > \
 > Use STL (not STEP) files for Slic3r forks, i.e. Prusa-, Orca-, Bambu Slicer. 
-> STEPs are for CADs. There has been reported many cases when a STEP file caused invalid geometry, 
+> STEPs are for CADs. There has been many cases reported when a STEP file has caused invalid geometry, 
 > including critical changes such as "no gap between button and shell".
 
 ### Printing
